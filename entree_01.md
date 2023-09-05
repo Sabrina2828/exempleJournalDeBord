@@ -4,9 +4,10 @@
 Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutoriel](https://youtu.be/lX3bpuLK_Sg) vous aide! 
 
 ## Pourquoi j'ai choisi l'intégration multimédia
-Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous a fait choisir ce programme. Quel cours vous motive en particulier? Est-ce que vous avez déjà en tête un métier que vous aimeriez faire grâce à la formation? Insérez dans votre texte un mot en gras, un emoji et une liste à point. 
+Je me suis orientée vers le programme d'intégration multimédia (TIM) en raison de ma grande passion pour le monde du multimédia, de la création visuelle et de la technologie. Pour moi, c'est une occasion exceptionnelle de réunir mes intérêts variés, tels que l'audio, la photographie et l'illustration numérique, dans une formation complète. Ce qui m'a particulièrement plu dans ce programme, c'est sa **polyvalence**. Il offre une grande variété de compétences et d'outils utiles pour le domaine dans lequel je vais travailler. Parmi tous mes cours, celui qui me motive le plus est l'illustration numérique. Je suis fascinée par tout l'aspect esthétique et pratique de ce cours. Je n'ai pas encore trouvé le métier que je veux faire, mais je suis convaincue que les nombreuses possibilités de carrière offertes par cette technique me plairont beaucoup et qu'avec le temps, j'arriverai à faire mon choix. Tout ça pour dire que je suis très heureuse de me retrouver dans cette technique et que j'ai hâte de voir où elle me mènera.:smiley:
 
-[Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
-
-
-
+* Domaines  multimédias
+* Audio 1
+* Illustration numérique
+* Photographie
+* Web 1
