@@ -21,7 +21,8 @@ Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez p
 
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
-Je me vois dans une entreprise qui me permet de m'épanouir. Je voyage pour mon métier et j'essaie d
+
+Dans cinq ans, je me vois dans une entreprise où je pourrai mettre en pratique la variété de mes compétences en travaillant sur un large éventail de projets, allant de la conception de sites web et de la production d'animations à la photographie professionnelle, en passant par la production vidéo et la conception de jeux multimédias, tout en continuant à apprendre.
 ### Projets
 Expliquez un ou des projets que vous aimeriez faire. 
 
