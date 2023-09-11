@@ -13,10 +13,13 @@ Dans le domaine de l'intégration multimédia, je suis particulièrement intére
 ### Emplois qui vous intéressent
 Nommez deux emplois.
 
-Animateur 2D/3D et technicien du son
+Animateur 2D/3D et Programmeur
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
 
+Je m'identifie profondément à Pixar Animation Studios, car j'ai grandi en suivant leurs histoires extraordinaires qui ont la capacité de toucher les cœurs et de susciter l'inspiration. À présent, je ressens le désir ardent de contribuer à cet univers créatif, de donner de ma propre créativité pour inspirer à mon tour les autres. Pixar incarne cette magie de la narration visuelle qui peut changer la vie des gens, et je veux être une partie de cette aventure artistique qui fait vibrer les âmes. 
+
+Je m'identifie à Casey Neistat pour plusieurs raisons. Tout d'abord, son parcours de vie et sa carrière m'inspirent profondément. Casey a suivi son propre chemin, sans attendre d'être validé par l'éducation formelle, et cela résonne avec mon désir de poursuivre ma passion pour l'intégration multimédia et d'explorer par moi-même les possibilités de ce domaine. De plus, Casey Neistat représente la persévérance et la créativité. Son travail acharné pour produire des vidéos quotidiennes pendant de nombreuses années est un exemple impressionnant de son engagement envers son art. Sa capacité à raconter des histoires authentiques à travers des médias visuels est une qualité que j'admire profondément et que j'espère développer dans ma propre carrière. En résumé, Casey Neistat m'inspire à suivre ma passion, à persévérer dans mon cheminement et à faire preuve de créativité dans ma manière de communiquer des histoires par le biais de divers médias.
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
 
