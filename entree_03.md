@@ -23,7 +23,7 @@ Je m'identifie à Casey Neistat pour plusieurs raisons. Tout d'abord, son parcou
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
 
-Dans cinq ans, je me vois dans une entreprise où je pourrai mettre en pratique la variété de mes compétences en travaillant sur un large éventail de projets, allant de la conception de sites web et de la production d'animations à la photographie professionnelle, en passant par la production vidéo et la conception de jeux multimédias, tout en continuant à apprendre.
+Dans cinq ans, je me vois dans une entreprise où je pourrai mettre en pratique la variété de mes compétences en travaillant sur un large éventail de projets, allant de la conception de sites web et de la production d'animations à la photographie, en passant par la production vidéo et la conception de jeux multimédias, tout en continuant à apprendre.
 ### Projets
 Expliquez un ou des projets que vous aimeriez faire. 
 
