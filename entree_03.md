@@ -13,7 +13,7 @@ Dans le domaine de l'intégration multimédia, je suis particulièrement intére
 ### Emplois qui vous intéressent
 Nommez deux emplois.
 
-Je serais intéressée à travailler en tant qu'animateur 3D/2D et programmeur.
+Je serais intéressée à travailler en tant qu'animateur 3D/2D et intégratrice multimédia.
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
 
