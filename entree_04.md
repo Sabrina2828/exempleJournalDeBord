@@ -14,9 +14,13 @@ Grics, S. (s. d.). REPÈRES - le site officiel de l’information scolaire et p
 ### Emploi 2 - Animation 2D/3D
 4 à 5 lignes
 
-### Emploi 3 - Ingénieur du son
+Les principales tâches de ce métier consistent à créer des animations pour des films, des jeux vidéo, des publicités ou d'autres médias. On peut travailler dans des studios d'animation, des sociétés de production cinématographique, des agences de publicité ou à notre compte. Pour réussir dans ce métier, vous devez être créatif, avoir un bon sens de l'observation, et être capable de travailler de manière indépendante. Ce que je trouve passionnant dans ce métier, c'est la possibilité de donner vie à des personnages et à des mondes imaginaires, créant ainsi des expériences visuelles captivantes. Cependant, les délais serrés rendent ce métier moins attrayant.
+
+Grics, S. (s. d.). REPÈRES - le site officiel de l’information scolaire et professionnelle. https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=1&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=1&NoPage=1&NoResultat=1&Provenance=10&Niveau=4&IdFiltre=0&IdDon=909
+### Emploi 3 - Technicienne du son
 4 à 5 lignes 
 
+Grics, S. (s. d.). REPÈRES - le site officiel de l’information scolaire et professionnelle. https://consultation.reperes.qc.ca/asp/Reperes.aspx?jlsid=1&jlrun=reperes.detail.metiers.detail.Asm&NbResultatP=143&NbResultatF=-1&NbResultatC=-1&NbMotcle=0&NbResultat=143&NoPage=1&NoResultat=41&Provenance=10&Niveau=4&IdFiltre=0&IdDon=886#PrincMetiers
 ### Emploi 4 - Monteuse vidéo
 4 à 5 lignes
 
