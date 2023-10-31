@@ -8,7 +8,7 @@ Mes deux points forts sont ma prise de note et ma méthode de révision.
 ### Points à améliorer
 Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
 
-Mes deux points à améliorer sont La procrastination et la gestion du temps.
+Mes deux points à améliorer sont ma procrastination et ma gestion du temps.
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
@@ -22,4 +22,4 @@ Mes notes de cours et les notes de cours du prof.
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
 
-J'avais oublié les notions sur les unités de mesure et sur les différence entre lecteur de disque, de disque, SSD HDD. Bref , anyways...
+J'avais oublié les notions sur les unités de mesure et sur les différence entre lecteur de disque, de disquette, SSD et HDD. 
