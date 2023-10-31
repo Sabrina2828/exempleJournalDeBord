@@ -4,6 +4,8 @@
 L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
 Escape game
 
+J'ai beaucoup apprécié l'activité qu'on a fait, 
+
 Entre 300 et 400 mots. 
 
 ### Description
