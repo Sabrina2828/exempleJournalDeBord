@@ -13,13 +13,13 @@ Premièrement, la procrastination est un point faible que je dois surmonter, car
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
 
-Bien, on avait énormément de temps pour réaliser l'examen. 
+Pendant l'examen, j'ai géré mon temps de manière satisfaisante, car le temps imparti était plus que suffisant pour accomplir toutes les tâches requises.
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
 
-Mes notes de cours et les notes de cours du prof.
+Pour ma préparation à l'examen, j'ai principalement utilisé mes propres notes de cours ainsi que les notes fournies par le professeur.
 
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
 
-J'avais oublié les notions sur les unités de mesure et sur les différence entre lecteur de disque, de disquette, SSD et HDD. 
+Au cours de l'examen, j'ai été confronté à des difficultés, notamment en raison de mon oubli concernant les concepts liés aux unités de mesure et à la distinction entre les types de lecteurs de stockage tels que les disques, les disquettes, les SSD et les HDD.
