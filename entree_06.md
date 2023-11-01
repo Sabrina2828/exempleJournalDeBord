@@ -15,6 +15,9 @@ Il s'agit d'un escape game d'une durée de 75 minutes, les participants sont inv
 ### Opinion
 Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
 
+J'ai beaucoup apprécié l'escape game. C'était une expérience très divertissante, avec des énigmes à résoudre en équipe. L'atmosphère mystérieuse et la collaboration entre les joueurs étaient vraiment captivantes. La contrainte du temps a ajouté une dimension excitante. En résumé, c'était une expérience formidable !
+
 ### Analyse critique
 Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
-L'avant dernière pièce, car avec mon équipe on a perdu beaucoup de temps à résoudre l'énigme, mais on a finalement réussi par coup de chance. Donc, peut-etre réduire le niveau de difficulté de cette pièce.
+
+Premièrement, le nombre de joueurs était trop élevé pour profiter pleinement de l'expérience d'évasion. Deuxièmement, il y avait un blocage dans l'avant-dernier niveau, où nous n'avons réussi à sortir que par pur hasard. Il serait judicieux de réduire légèrement la complexité de ce niveau.
