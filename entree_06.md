@@ -13,7 +13,7 @@ Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment 
 
 Il s'agit d'un escape game d'une durée de 75 minutes, les participants sont invités à embarquer à bord de l'AMS-2, une nouvelle version du métro automatisé proposée par l'AMS (Automated Metro System). L'histoire tourne autour de la relance du projet de métro automatisé, après une tentative infructueuse en 1999. Techniquement, l'installation implique la création d'un environnement où les participants doivent résoudre des énigmes pour accomplir une mission. Elle comprend des éléments de décor, des énigmes, des indices et des mécanismes interactifs pour immerger les joueurs dans l'histoire et mettre en avant leurs compétences en résolution d'énigmes.
 
-Jeu d’Évasion Laval. (s. d.). Escaparium  Laval. https://www.escaparium.ca/laval-jeu-evasion/#:~:text=L'AMS%20(Automated%20Metro%20System,cette%20nouvelle%20version%20du%20m%C3%A9tro.
+Jeu d’Évasion Laval. (s. d.). Escaparium  Laval. https://www.escaparium.ca/laval-jeu-evasion/dernier-arret/
 
 ### Opinion
 Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
