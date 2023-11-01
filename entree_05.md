@@ -4,11 +4,11 @@
 ### Points forts de la préparation à l'examen
 Nommer deux points forts de votre préparation à l'examen.
 
-Mes deux points forts sont ma prise de note et ma méthode de révision.
+Tout d'abord, ma capacité à prendre des notes méthodiquement et à créer des résumés efficaces du contenu. D'autre part, ma méthode de révision structurée m'a permis de mettre l'accent sur les points clés du cours.
 ### Points à améliorer
 Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
 
-Mes deux points à améliorer sont ma procrastination et ma gestion du temps.
+Premièrement, la procrastination est un point faible que je dois surmonter, car elle entraîne des retards dans mes sessions d'étude. De plus, ma gestion du temps d'étude mérite une amélioration, car il peut m'arriver de ne pas utiliser mon temps de manière optimale lors de mes révisions.
 
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de l'examen?
