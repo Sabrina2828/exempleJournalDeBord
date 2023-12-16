@@ -45,7 +45,7 @@ Non, jusqu'à présent, je n'ai pas découvert de nouveau métier qui suscite mo
 
 ### As-tu découvert un nouvel artiste qui t'a inspiré? 
 
-Non, je n'ai pas encore découvert de nouvel artiste qui m'ait inspiré.
+Non, je n'ai pas découvert de nouvel artiste qui m'ait inspiré.
 
 ### Pour quel type d'entreprise préférerais-tu travailler? 
 
@@ -53,5 +53,7 @@ Je ne sais pas vraiment pour le moment, mais j'aimerais essayer différents doma
 
 ### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
 
+Personnellement, j'aime bien l'illustration numérique, c'est le domaine qui m'intéresse le plus.
+
 ### Est-ce que tu as préféré une sortie ou une conférence?
-J'ai préféré faire la sortie d'escape game, car j'aime etre en action au lieu d'etre assis a ecouter quelqu'un parler.
+J'ai préféré faire la sortie d'escape game, car j'apprécie davantage l'interaction et le mouvement par rapport à rester assis lors d'une conférence.
