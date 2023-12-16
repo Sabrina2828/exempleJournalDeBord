@@ -23,13 +23,21 @@ Pour préparer notre présentation, nous avons utilisé principalement Canva pou
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
 
+Une des difficultés majeures que j'ai rencontrées était liée à la nécessité de faire des recherches sur des projets auxquels je n'avais jamais été exposé auparavant.
+
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
+
+J'ai pas eu la chance de voir les autres présentations.
 
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
 
+La session a été intense, mais j'ai apprécié. Les délais étaient serrés, et les grèves ont compliqué les choses, surtout quand nous devions encore soumettre des projets à la même date, alors que des cours importants, censés nous aider dans la réalisation du projet, avaient été manqués.
+
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
+
+C'est énormée
 
 ### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
 
