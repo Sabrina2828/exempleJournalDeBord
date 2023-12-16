@@ -19,7 +19,7 @@ La gestion du temps durant la présentation a posé des défis, notamment en rai
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
 
-Pour préparer notre présentation, nous avons utilisé Canva pour le PowerPoint.
+Nous avons utilisé Canva pour créer le PowerPoint, tandis que pour la réalisation des maquettes et des croquis sur Trello, nous avons fait appel à Photoshop et Draw.io.
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
 
