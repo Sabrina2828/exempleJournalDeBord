@@ -6,7 +6,7 @@ L’objectif de cet exercice est de développer une opinion sur la conférence q
 ### Description (Entre 4 et 6 lignes)
 Comment avez-vous trouvez la conférence? Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? Est-ce que la conférence vous a été utile?
 
-La conférence a vraiment attiré mon attention. J'ai aimé comment la conférencière a parlé de son parcours de manière personnelle, ajoutant un côté intéressant à sa présentation. Cette approche a rendu le discours plus captivant. Dans l'ensemble, j'ai trouvé la conférence plaisante, avec un bon équilibre entre infos utiles et anecdotes personnelles, ce qui l'a rendue plus appréciable pour moi.
+La conférence a vraiment attiré mon attention. J'ai aimé comment la conférencière a parlé de son parcours de manière personnelle, ajoutant un côté intéressant à sa présentation. Cette approche a rendu le discours plus captivant. Dans l'ensemble, j'ai trouvé la conférence plaisante, avec un bon équilibre entre infos utiles et anecdotes personnelles, ce qui la distingue à mes yeux.
 
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
