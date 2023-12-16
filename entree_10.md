@@ -4,11 +4,17 @@
 ### Points forts de votre présentation 
 Nommer deux points forts de votre présentation.
 
+J'apprécie beaucoup le coté esthetique de notre power point. On l'a réalisé sur Canvas et on a pu voir la difference entre ce logiciel et celui de power point qu'on utilise habituellemennt.
+
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
 
+Nous pourrions travailler sur la fluidité de la transition entre les diapositives pour assurer une progression naturelle de l'information. Cela garantirait une compréhension continue et facilitée. Aussi, pour rendre la présentation plus vivante, nous pourrions explorer des moyens d'ajouter des éléments visuels interactifs ou des animations subtiles, ce qui contribuerait à captiver davantage l'attention de l'auditoire.
+
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de la présentation?
+
+La gestion du temps durant la présentation a posé des défis, notamment en raison d'une organisation tardive. Nous avons constaté que nous nous sommes pris un peu à la dernière minute. Pour remédier à cette situation à l'avenir, nous devrions adopter une approche plus proactive en planifiant nos tâches de manière anticipée et en répartissant efficacement notre temps de préparation.
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
