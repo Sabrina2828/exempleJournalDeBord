@@ -20,10 +20,11 @@ La gestion du temps durant la présentation a posé des défis, notamment en rai
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
 
 Nous avons utilisé Canva pour créer le PowerPoint, tandis que pour la réalisation des maquettes et des croquis sur Trello, nous avons fait appel à Photoshop et Draw.io.
+
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
 
-Une des difficultés majeures que j'ai rencontrées était liée à la nécessité de faire des recherches sur des projets auxquels je n'avais jamais été exposé auparavant.
+Une des difficultés majeures que j'ai rencontrées était liée à la nécessité de faire des recherches sur des sujets auxquels je n'avais jamais été exposé auparavant. De plus, on a eu du mal avec le storyboard, ça nous a pris un bon moment pour comprendre comment le faire. Ensuite, on stressait un peu de ne pas avoir assez de temps pour l'intégrer dans PowerPoint.
 
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
