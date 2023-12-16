@@ -57,4 +57,5 @@ Je ne sais pas vraiment pour le moment, mais j'aimerais essayer différents doma
 Personnellement, j'aime bien l'illustration numérique, c'est le domaine qui m'intéresse le plus.
 
 ### Est-ce que tu as préféré une sortie ou une conférence?
-J'ai préféré faire la sortie d'escape game, car j'apprécie davantage l'interaction et le mouvement par rapport à rester assis lors d'une conférence.
+
+J'ai préféré participer au jeu d'évasion, car j'apprécie davantage l'interaction et le mouvement par rapport à rester assis lors d'une conférence.
