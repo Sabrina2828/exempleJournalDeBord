@@ -19,4 +19,4 @@ Intelligence Artificielle Intégrée : L'intégration de l'IA pour adapter l'exp
 
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
-La programmation, la construction du décor, gestionnaire de projet, dessins des design, ecriture du scénario, installation technologique, creation des enigme, marketing, budget, bande sonore, brainstorm
+La programmation, la construction du décor, gestionnaire de projet, dessins des design, ecriture du scénario, installation technologique, creation des enigme, marketing, budget, bande sonore, brainstorm, feedback, moodboard.
