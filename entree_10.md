@@ -4,7 +4,7 @@
 ### Points forts de votre présentation 
 Nommer deux points forts de votre présentation.
 
-J'apprécie beaucoup le coté esthetique de notre power point. On l'a réalisé sur Canvas et on a pu voir la difference entre ce logiciel et celui de power point qu'on utilise habituellemennt qui est grandemnt meilleure.
+Deux points forts de notre présentation sont, premièrement, l'esthétique du PowerPoint réalisé sur Canvas, et deuxièmement, la structure bien pensée de nos diapositives.
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
