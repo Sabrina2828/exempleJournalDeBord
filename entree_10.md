@@ -4,7 +4,7 @@
 ### Points forts de votre présentation 
 Nommer deux points forts de votre présentation.
 
-J'apprécie beaucoup le coté esthetique de notre power point. On l'a réalisé sur Canvas et on a pu voir la difference entre ce logiciel et celui de power point qu'on utilise habituellemennt.
+J'apprécie beaucoup le coté esthetique de notre power point. On l'a réalisé sur Canvas et on a pu voir la difference entre ce logiciel et celui de power point qu'on utilise habituellemennt qui est grandemnt meilleure.
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
@@ -37,14 +37,21 @@ La session a été intense, mais j'ai apprécié. Les délais étaient serrés, 
 
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
 
-C'est énormément de crea
+Entre le cours 1 et aujourd'hui, j'ai exploré divers aspects du multimédia, notamment en apprenant sur l'édition photo avec Photoshop, le mixage audio, la programmation, et la photographie. Ces découvertes m'ont permis de développer des compétences dans des domaines qui m'étaient auparavant peu familiers.
 
 ### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
 
+Non, jusqu'à présent, je n'ai pas découvert de nouveau métier qui suscite mon intérêt.
+
 ### As-tu découvert un nouvel artiste qui t'a inspiré? 
 
+Non, je n'ai pas encore découvert de nouvel artiste qui m'ait inspiré.
+
 ### Pour quel type d'entreprise préférerais-tu travailler? 
+
+Je ne sais pas vraiment pour le moment, mais j'aimerais essayer différents domaines en travaillant dans diverses entreprises.
 
 ### Est-ce qu'un des domaines du multimédia t'intéresse plus que les autres? 
 
 ### Est-ce que tu as préféré une sortie ou une conférence?
+J'ai préféré faire la sortie d'escape game, car j'aime etre en action au lieu d'etre assis a ecouter quelqu'un parler.
