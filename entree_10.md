@@ -19,7 +19,7 @@ La gestion du temps durant la présentation a posé des défis, notamment en rai
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
 
-Pour préparer notre présentation, nous avons utilisé principalement Canva pour le PowerPoint.
+Pour préparer notre présentation, nous avons utilisé Canva pour le PowerPoint.
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
 
@@ -37,7 +37,7 @@ La session a été intense, mais j'ai apprécié. Les délais étaient serrés, 
 
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
 
-C'est énormée
+C'est énormément de crea
 
 ### As-tu découvert un nouveau métier qui pourrait t'intéresser? 
 
