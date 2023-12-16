@@ -19,6 +19,8 @@ La gestion du temps durant la présentation a posé des défis, notamment en rai
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
 
+Pour préparer notre présentation, nous avons utilisé principalement Canvas.
+
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
 
